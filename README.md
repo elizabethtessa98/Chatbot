@@ -1,1 +1,4 @@
 # Chatbot
+A chatbot is an intelligent application designed to reduce human effort by addressing customers' basic queries. Nowadays, businesses across various sectors utilize chatbots to provide rapid responses to their customers. Additionally, chatbots contribute to increased website traffic, which is a significant reason for their adoption by companies.
+
+Chatbots typically collect essential customer information such as name, email address, and the nature of the query. For straightforward issues like product defects, booking errors, or general inquiries, chatbots can automatically resolve them without human intervention. For more complex problems, the chatbot escalates the details to a human representative, facilitating an easy connection with a company manager. Most customers prefer interacting with chatbots due to their efficiency.
